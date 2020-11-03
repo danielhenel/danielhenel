@@ -5,5 +5,5 @@
 ### My Projects:
 
 * 2020 Meshi - Your Personal Meal Planner [Meshi - GitHub](https://github.com/AGH-Narzedzia-Informatyczne/meshi)
-  Technologies used: Python, Django HTML, CSS, PostgreSQL
+  (Technologies: Python, Django HTML, CSS, PostgreSQL)
 
