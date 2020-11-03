@@ -1,8 +1,8 @@
-### Hello, I'm Daniel.
+# Hello, I'm Daniel.
 
 **I am a student of AGH University of Science and Technology (Cracow, Poland).**
 
-# My Projects:
+### My Projects:
 
 * 2020 Meshi - Your Personal Meal Planner [Meshi - GitHub](https://github.com/AGH-Narzedzia-Informatyczne/meshi)
   Technologies used: Python, Django HTML, CSS, PostgreSQL
