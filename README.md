@@ -7,4 +7,4 @@
 * 2020 Meshi - Your Personal Meal Planner [Meshi - GitHub](https://github.com/AGH-Narzedzia-Informatyczne/meshi)
   (Technologies: Python, Django HTML, CSS, PostgreSQL)
  
-### View my webpage [Daniel Henel's Page](https://danielhenel.github.io)
+### View [Daniel Henel's homepage](https://danielhenel.github.io)
