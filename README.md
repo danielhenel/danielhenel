@@ -8,7 +8,7 @@
   (Technologies: Python, Django HTML, CSS, PostgreSQL)
 
 ### My gists:
-[Gists](https://gist.github.com/danielhenel)
+[GitHub Gist](https://gist.github.com/danielhenel)
  
 ### View [Daniel Henel's homepage](https://danielhenel.github.io)
 
